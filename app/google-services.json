@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673775225165",
+    "firebase_url": "https://samplejetpackchat-802bb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "samplejetpackchat-802bb",
+    "storage_bucket": "samplejetpackchat-802bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673775225165:android:cc70d7668e2048a3f78f04",
+        "android_client_info": {
+          "package_name": "com.example.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673775225165-g5chp8ebp46cr8jobdkpimvc1bov2bqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP-DOmr5E3sdjOtiOVYcFxnPVFgW4NXXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673775225165-g5chp8ebp46cr8jobdkpimvc1bov2bqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
